@@ -1,0 +1,6 @@
+// keybindings.json
+{
+    "key": "ctrl+o",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Open in remote"
+}
